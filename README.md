@@ -32,7 +32,7 @@ src='https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.pn
 [<img style="height:64px;float:left;margin-right:50px;" 
 src='https://omerkor.com/assets/logo.af570272.svg'>](https://omerkor.com/)
 
-
+## Stats :
 
 [![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
