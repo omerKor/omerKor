@@ -7,8 +7,6 @@ I am a constantly evolving software developer.
 ## Skills:
 <div>
   <img style="height:48px;float:left;margin-right:50px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png"/>
-  <img style="height:48px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png"/> 
   <img style="height:48px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png"/>  
@@ -16,8 +14,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wor
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/125px-Sass_Logo_Color.svg.png"/>  
   <img style="height:48px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png"/>
+   <img style="height:48px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png"/>
   <img style="height:48px;float:left;margin-right:50px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/105px-Node.js_logo.svg.png"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/105px-Node.js_logo.svg.png"/>  
 </div>
 
 
