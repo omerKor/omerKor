@@ -18,14 +18,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.s
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png"/>
     <img style="height:64px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/105px-Node.js_logo.svg.png"/>
-    <img style="height:64px;float:left;margin-right:50px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/270px-PHP-logo.svg.png"/>
-     <img style="height:64px;float:left;margin-right:50px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/150px-C_Sharp_wordmark.svg.png"/>
-     <img style="height:64px;float:left;margin-right:50px;" 
-src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png"/>
-     <img style="height:64px;float:left;margin-right:50px;" 
-src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png"/>
 </div>
 
 
