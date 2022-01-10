@@ -4,7 +4,7 @@ I'm Frontend Developer.
 
 I am a constantly evolving software developer.
 
-## Skills
+## Skills:
 <div>
   <img style="height:64px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png"/>
@@ -18,10 +18,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.s
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png"/>
     <img style="height:64px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/105px-Node.js_logo.svg.png"/>
+    <img style="height:64px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/270px-PHP-logo.svg.png"/>
+     <img style="height:64px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/150px-C_Sharp_wordmark.svg.png"/>
+     <img style="height:64px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png"/>
+     <img style="height:64px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png"/>
 </div>
 
 
-## Links :
+## Links:
   
 [<img style="height:64px;float:left;margin-right:50px;" 
 src='https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png'>](https://www.linkedin.com/in/omerkorr/)
@@ -32,7 +40,7 @@ src='https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.pn
 [<img style="height:64px;float:left;margin-right:50px;" 
 src='https://omerkor.com/assets/logo.af570272.svg'>](https://omerkor.com/)
 
-## Stats :
+## Stats:
 
 [![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
