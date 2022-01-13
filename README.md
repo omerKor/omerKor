@@ -33,6 +33,6 @@ src='https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.pn
 src='https://omerkor.com/assets/logo.af570272.svg'>](https://omerkor.com/)
 
 ## Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerKor&layout=compact&theme=default&width=100%)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerKor&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default)](https://github.com/anuraghazra/github-readme-stats)<br>
 
