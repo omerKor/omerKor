@@ -2,7 +2,7 @@
 
 I'm Frontend Developer.
 
-I am a constantly evolving software developer.
+I am a constantly evolving software developer. <br/>
 ![Profile views](https://komarev.com/ghpvc/?username=omerKor)
 ## Skills:
 <div>
