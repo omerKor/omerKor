@@ -5,7 +5,7 @@
 I'm Frontend Developer.
 
 I am a constantly evolving software developer. <br/>
-![Profile views](https://komarev.com/ghpvc/?username=omerKor&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=omerKor&color=blueviolet&style=plastic)
 ## Skills:
 <div>
   <img style="height:48px;float:left;margin-right:50px;" 
