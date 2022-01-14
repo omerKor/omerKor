@@ -36,7 +36,7 @@ src='https://omerkor.com/assets/logo.af570272.svg'>](https://omerkor.com/)
 
 ## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerKor&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
