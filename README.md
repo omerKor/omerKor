@@ -39,7 +39,7 @@ src='https://omerkor.com/assets/logo.af570272.svg'>](https://omerkor.com/)
 [![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" width="50%">
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
