@@ -30,7 +30,7 @@ src='https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png'>](
 [<img style="height:48px;float:left;margin-right:50px;" 
 src='https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png'>](https://app.patika.dev/kor)
 [<img style="height:48px;float:left;margin-right:50px;" 
-src='https://omerkor.com/assets/logo.svg'>](https://omerkor.com/)
+src='https://omerkor.com/assets/favicon.svg'>](https://omerkor.com/)
 
 ## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerKor&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)<br>
