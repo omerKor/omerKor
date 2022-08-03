@@ -20,6 +20,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaSc
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png"/>
   <img style="height:48px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/105px-Node.js_logo.svg.png"/>  
+  <img style="height:48px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/121px-Nextjs-logo.svg.png"/> 
+<img style="height:48px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png"/> 
 </div>
 
 
