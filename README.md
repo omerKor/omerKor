@@ -24,6 +24,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/121px-Nextjs-logo.svg.png"/> 
 <img style="height:48px;float:left;margin-right:50px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png"/> 
+  <img style="height:48px;float:left;margin-right:50px;" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/121px-Redux_Logo.png"/>
+  
 </div>
 
 
