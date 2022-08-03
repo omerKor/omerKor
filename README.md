@@ -8,23 +8,23 @@ I am a constantly evolving software developer. <br/>
 ![Profile views](https://komarev.com/ghpvc/?username=omerKor&color=blueviolet&style=square)
 ## Skills:
 <div>
-  <img style="height:48px;float:left;margin-right:50px;" 
+  <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png"/> 
-  <img style="height:48px;float:left;margin-right:50px;" 
+  <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png"/>  
-  <img style="height:48px;float:left;margin-right:50px;" 
+  <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/125px-Sass_Logo_Color.svg.png"/>  
-  <img style="height:48px;float:left;margin-right:50px;" 
+  <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png"/>
-   <img style="height:48px;float:left;margin-right:50px;" 
+   <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png"/>
-  <img style="height:48px;float:left;margin-right:50px;" 
+  <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/105px-Node.js_logo.svg.png"/>  
-  <img style="height:48px;float:left;margin-right:50px;" 
+  <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/121px-Nextjs-logo.svg.png"/> 
-<img style="height:48px;float:left;margin-right:50px;" 
+<img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png"/> 
-  <img style="height:48px;float:left;margin-right:50px;" 
+  <img style="height:48px;float:left;margin-right:50px; margin-bottom:20px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1920px-Redux_Logo.png"/>
   
 </div>
