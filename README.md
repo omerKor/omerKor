@@ -40,8 +40,13 @@ src='https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.pn
 src='https://omerkor.com/assets/favicon.svg'>](https://omerkor.com/)
 
 ## Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerKor&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+<div style="width:49.9%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerKor&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div style="width:49.9%">
+[![Omers's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerKor&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" width="50%">
